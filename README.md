@@ -46,4 +46,5 @@ The 11 months remaining on the contract result from an on-chain timelock paramet
 5. Conclusion and Academic Applications 🎓
 
 This software is not just an operational tool but a sandbox environment for studying the behavior of blockchain protocols when faced with non-standard assets. This project demonstrates how concepts like "persistence" and "liquidity" can be separated by modifying the smart contract layer. The results of this research can be applied in areas such as smart contract security, the development of intelligent wallets, and systems for identifying counterfeit assets. ✅
+
 Support 🫆iD telegram = @Vostass1
